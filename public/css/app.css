@@ -122,6 +122,11 @@ fieldset[disabled] .btn-question.active {
   background-color: #FFFFFF; 
 }
 
+.btn-secondary{
+  background-color: rgba(51,61,81,0.97);
+
+}
+
 footer {
     width: 100%;
     background-color: rgba(51,61,81,0.97);
